@@ -1,6 +1,4 @@
-[discord-invite]: https://discord.gg/CDy48QjS
-[ ![discord-shield][] ][discord-invite]
-
+[![Discord](https://img.shields.io/discord/415599298051309588.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/EfgFTmSU)
 # CFG
 
 
