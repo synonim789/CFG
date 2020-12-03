@@ -1,10 +1,10 @@
-#CFG
+# CFG
 
-https://discord.gg/CDy48QjS
+.[discord-invite]: https://discord.gg/CDy48QjS
 
 Lista zakupów -> Budżet.xlsx
 
-##TODO List
+## TODO List
 - [x] Urządzić się na GitHubie.
 - [ ] Stworzyć projekt graficzny strony www.
 - [ ] Stworzyć schemat graficzny całego projektu.
