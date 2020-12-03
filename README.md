@@ -1,4 +1,5 @@
 [discord-invite]: https://discord.gg/CDy48QjS
+[ ![discord-shield][] ][discord-invite]
 
 # CFG
 
