@@ -1,6 +1,6 @@
 # CFG
 
-.[discord-invite]: https://discord.gg/CDy48QjS
+[discord-invite]: https://discord.gg/CDy48QjS
 
 Lista zakupów -> Budżet.xlsx
 
