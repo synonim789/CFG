@@ -2,7 +2,7 @@
 [![Strona Szkoły](https://img.shields.io/badge/ZSP-Strona%20Szkoły-brightgreen)](http://zspwrzesnia.pl)
 [![ZSP Code For Green](https://img.shields.io/badge/ZSP-Code%20For%20Green-brightgreen)](http://codeforgreen.zspwrzesnia.pl)
 
-# CFG
+# Code For Green Project
 
 
 Lista zakupów -> Budżet.xlsx
