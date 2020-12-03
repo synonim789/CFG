@@ -1,5 +1,7 @@
 #CFG
 
+https://discord.gg/CDy48QjS
+
 Lista zakupów -> Budżet.xlsx
 
 ##TODO List
