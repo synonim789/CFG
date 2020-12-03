@@ -9,6 +9,6 @@ Lista zakupów -> Budżet.xlsx
 
 ## TODO List
 - [x] Urządzić się na GitHubie.
-- [ ] Stworzyć projekt graficzny strony www.
+- [ ] Stworzyć projekt graficzny strony internetowej.
 - [ ] Stworzyć schemat graficzny całego projektu.
-- [ ] Strona WWW.
+- [ ] Strona internetowa.
